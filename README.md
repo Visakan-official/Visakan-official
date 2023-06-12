@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://visakan.hashnode.dev/](https://visakan.hashnode.dev/)
 
-- 💬 Ask me about **OSI Model**
+- 💬 Ask me about **Devops, Blockchain, De-Fi, Web3.0**
 
 - 📫 How to reach me **visakan.official@gmail.com**
 
@@ -41,3 +41,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Visakan-official&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
+
